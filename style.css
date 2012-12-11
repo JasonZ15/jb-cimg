@@ -432,7 +432,7 @@ a.action-button {display: block; float: left; padding: 3px; background-color: rg
 a.action-button .color {display: block;padding-left: 30px; background:#1a78c8 url(images/transparent-bar.png) 0 0 repeat-y;}
 a.action-button .text {display: block;background-color:#3fa2f7; font-family: "HelveticaNeue57Condensed", "Helvetica Neue Condensed", "Helvetica", sans-serif; padding: 6px 10px 8px 8px; font-size: 18px; }
 a.action-button:hover { background-color: transparent; text-decoration: underline;}
-#header a.action-button {margin: 2px 0 6px -3px;}
+#header a.action-button {margin: 22px 0 6px -3px;}
 
 a#go-register .color {background-color:#575096;background-position: -335px 0px;}
 a#go-register .text {background-color:#6c66a6;}
