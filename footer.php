@@ -76,18 +76,19 @@
 		<img class="title-tab" src="<?php echo get_template_directory_uri(); ?>/images/sponsors-tab.png" />
 <div class="image_carousel">	
 	<ul id="foo3">
-	 <li style="width: 111px;"><img src="http://gmic.greatwallclub.com/wp-content/themes/gmic/images/top-sponsor-tab.jpg" width="97" height="59" style="padding:0; border: none;" /></li>   
-	  <li style="width: 161px;"><a href="http://english.sina.com/index.html" target="_blank"><img src="http://gmic.greatwallclub.com/wp-content/uploads/sponsors/sina.png" width="135" style="border: 1px solid #7b6596; padding: 9px 5px 10px 5px;" /></a></li>
-	  <li style="width: 161px;"><a href="http://www.tencent.com/en-us/index.shtml" target="_blank"><img src="http://gmic.greatwallclub.com/wp-content/uploads/sponsors/tengxun.png" width="135" style="border: 1px solid #7b6596; padding: 9px 5px 10px 5px;" /></a></li>
+	 <li style="width: 111px;"><img src="<?php echo get_template_directory_uri(); ?>/images/top-sponsor-tab.jpg" width="97" height="59" style="padding:0; border: none;" /></li>   
+	  <li style="width: 161px;"><a href="http://english.sina.com/index.html" target="_blank"><img src="/wp-content/uploads/sponsors/sina.png" width="135" style="border: 1px solid #7b6596; padding: 9px 5px 10px 5px;" /></a></li>
+	  <li style="width: 161px;"><a href="http://www.tencent.com/en-us/index.shtml" target="_blank"><img src="/wp-content/uploads/sponsors/tengxun.png" width="135" style="border: 1px solid #7b6596; padding: 9px 5px 10px 5px;" /></a></li>
 	  
-	  <li style="width: 161px;"><a href="http://us.91.com/" target="_blank"><img src="http://gmic.greatwallclub.com/wp-content/uploads/sponsors/wang_long.png" width="135" style="border: 1px solid #7b6596; padding: 9px 5px 10px 5px;" /></a></li>
+	  <li style="width: 161px;"><a href="http://us.91.com/" target="_blank"><img src="/wp-content/uploads/sponsors/wang_long.png" width="135" style="border: 1px solid #7b6596; padding: 9px 5px 10px 5px;" /></a></li>
 	  
-	   <li style="width: 161px;"><a href="http://www.ucweb.com/index.html" target="_blank"><img src="http://gmic.greatwallclub.com/wp-content/uploads/sponsors/ucweb.jpg" width="135" style="border: 1px solid #7b6596; padding: 9px 5px 10px 5px;" /></a></li>
+	   <li style="width: 161px;"><a href="http://www.ucweb.com/index.html" target="_blank"><img src="/wp-content/uploads/sponsors/ucweb.jpg" width="135" style="border: 1px solid #7b6596; padding: 9px 5px 10px 5px;" /></a></li>
+	   <li style="width: 161px;"><a href="http://www.xiaomi.com" target="_blank"><img src="/wp-content/uploads/sponsors/xiaomi.png" width="135" style="border: 1px solid #7b6596; padding: 9px 5px 10px 5px;" /></a></li>
 	   
-	   <li style="width: 111px;"><img src="http://gmic.greatwallclub.com/wp-content/themes/gmic/images/gold-sponsor-tab.jpg" width="97" height="59" style="padding:0; border: none;" /></li>
-	  <li style="width: 139px;"><a href="http://www.domob.cn/?lan=en" target="_blank"><img src="http://gmic.greatwallclub.com/wp-content/uploads/sponsors/domob2.png" height="57" 
+	   <li style="width: 111px;"><img src="<?php echo get_template_directory_uri(); ?>/images/gold-sponsor-tab.jpg" width="97" height="59" style="padding:0; border: none;" /></li>
+	  <li style="width: 139px;"><a href="http://www.domob.cn/?lan=en" target="_blank"><img src="/wp-content/uploads/sponsors/domob2.png" height="57" 
 	  style="border: 1px solid #eba706; padding: 0;" /></a></li>
-	  <li style="width: 139px;"><a href="http://www.yicha.cn/" target="_blank"><img src="http://gmic.greatwallclub.com/wp-content/uploads/sponsors/yicha.png" height="57" 
+	  <li style="width: 139px;"><a href="http://www.yicha.cn/" target="_blank"><img src="/wp-content/uploads/sponsors/yicha.png" height="57" 
 	  style="border: 1px solid #eba706; padding: 0;" /></a></li>
 	  
 	
