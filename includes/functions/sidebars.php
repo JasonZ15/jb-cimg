@@ -8,5 +8,14 @@ if ( function_exists('register_sidebar') ) {
 		'before_title' => '<h4 class="widgettitle">',
 		'after_title' => '</h4>',
 	) );
+	
+	register_sidebar( array(
+		'name' => 'header-widget',
+		'id' => 'header-widget',
+		'before_widget' => '<div id="%1$s" class="widget %2$s">',
+		'after_widget' => '</div> <!-- end .widget -->',
+		'before_title' => '<h4 class="widgettitle">',
+		'after_title' => '</h4>',
+	) );
 }
 ?>

@@ -481,6 +481,10 @@ a#gmic-sv-brochure .text {background-color:#fff;font-size: 14px;padding:3px 7px 
 .social-buttons a#chinese-overview:hover {background: url(images/social-buttons-over-06.png) 0 0 no-repeat;}
 .social-buttons a:hover img {visibility: hidden;}
 #header .social-buttons {float: left; clear:left;padding-top: 12px;}
+/* Countdown Timer */
+#fergcorp_countdown_timer_widget-2 {float: left; padding: 0; padding-top: 13px; margin-left: -3px;}
+#fergcorp_countdown_timer_widget-2 ul li {background-image: none;}
+.fergcorp_countdownTimer_timeUnit {color:#1A78C8; font-weight:bold; font-size: 16px;}
 
 /*------------------------------------------------*/
 /*------------[Twitter Ticker]-----------*/
