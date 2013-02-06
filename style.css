@@ -482,9 +482,11 @@ a#gmic-sv-brochure .text {background-color:#fff;font-size: 14px;padding:3px 7px 
 .social-buttons a:hover img {visibility: hidden;}
 #header .social-buttons {float: left; clear:left;padding-top: 12px;}
 /* Countdown Timer */
-#fergcorp_countdown_timer_widget-2 {float: left; padding: 0; padding-top: 13px; margin-left: -3px;}
-#fergcorp_countdown_timer_widget-2 ul li {background-image: none;}
-.fergcorp_countdownTimer_timeUnit {color:#1A78C8; font-weight:bold; font-size: 16px;}
+#fergcorp_countdown_timer_widget-2 {float: left; padding: 0; padding-top: 12px; margin-left: 0px;}
+#fergcorp_countdown_timer_widget-2 ul li {background-image: none; font-size:12px;color:#1A78C8;}
+span.fergcorp_countdownTimer_timeUnit {color:#1A78C8; font-weight:bold; font-size: 20px;text-shadow: 1px 1px 2px #999;}
+span.fergcorp_countdownTimer_timeUnit b:first-child {font-size: 12px; font-weight: normal;color:#6699cc;padding-right: 5px;text-shadow: 1px 1px 1px #c2c2c2;}
+.fergcorp_countdownTimer_day {padding-left: 6px;}
 
 /*------------------------------------------------*/
 /*------------[Twitter Ticker]-----------*/
