@@ -1,7 +1,7 @@
 			</div> 	<!-- end #main-area -->
 		
 		<footer id="main_footer" class="clearfix">
-			<p id="copyright"><!--<span style="font-size:22px;">联系我们</span><br />长城会<br /><a href="mailto: info@gmic-sv.com" title="Email Us" target="_blank">info@gmic-sv.com</a><br /><a href="http://www.facebook.com/theGMIC" target="_blank">www.facebook.com/theGMIC</a><br /><a href="http://www.twitter.com/theGMIC" target="_blank">Twitter: @theGMIC</a><br />565 Clyde Ave, Suite 600, Mountain View, CA, 94043<br />-->Copyright © Global Mobile Internet Conference  - All rights reserved.<br />Organized by Great Wall Club</p>
+			<p id="copyright"><!--<span style="font-size:22px;">联系我们</span><br />长城会<br /><a href="mailto: info@gmic-sv.com" title="Email Us" target="_blank">info@gmic-sv.com</a><br /><a href="http://www.facebook.com/theGMIC" target="_blank">www.facebook.com/theGMIC</a><br /><a href="http://www.twitter.com/theGMIC" target="_blank">Twitter: @theGMIC</a><br />565 Clyde Ave, Suite 600, Mountain View, CA, 94043<br />-->Copyright © Global Mobile Internet Conference  - All rights reserved.<br />Organized by <a target="_blank" href="http://www.gwc.net">GWC</a></p>
 		</footer> <!-- end #main_footer -->
 	</div> <!-- end #container -->
 <div id="bg">
