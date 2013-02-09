@@ -46,5 +46,6 @@ Template Name: No Margin Full Width Page
 <?php the_content(); ?>
 <?php endwhile; // end of the loop. ?>
 </div> 	<!-- end #content-area -->
+</div> 	<!-- end #container -->
 
 <?php get_footer(); ?>
