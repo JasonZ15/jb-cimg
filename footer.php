@@ -5,7 +5,7 @@
 		</footer> <!-- end #main_footer -->
 	</div> <!-- end #container -->
 <div id="bg">
-	<img src="http://gmic.greatwallclub.com/wp-content/themes/gmic/images/bg-web3.jpg" alt="">
+	<img src="http://beijing.thegmic.com/wp-content/themes/gmic/images/bg-web3.jpg" alt="">
 </div>
 
 	<?php wp_footer(); ?>
