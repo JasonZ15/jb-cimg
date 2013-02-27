@@ -229,6 +229,8 @@ body.single-project .flexslider { min-height: 485px; }
 .postid-3350 #left-area .app_info, .postid-3374 #left-area .app_info, .postid-3377 #left-area .app_info, .postid-3379 #left-area .app_info, .postid-3381 #left-area .app_info, .postid-3383 #left-area .app_info, .postid-3385 #left-area .app_info, .postid-3387 #left-area .app_info, .postid-3389 #left-area .app_info, .postid-3392 #left-area .app_info, .postid-3394 #left-area .app_info, .postid-3396 #left-area .app_info, .postid-3398 #left-area .app_info, .postid-3400 #left-area .app_info, .postid-3402 #left-area .app_info, .postid-3404 #left-area .app_info, .postid-3407 #left-area .app_info, .postid-3409 #left-area .app_info, .postid-3411 #left-area .app_info, .postid-3369 #left-area .app_info {display: none;}
 .postid-3350 #left-area .app_sidebar, .postid-3374 #left-area .app_sidebar, .postid-3377 #left-area .app_sidebar, .postid-3379 #left-area .app_sidebar, .postid-3381 #left-area .app_sidebar, .postid-3383 #left-area .app_sidebar, .postid-3385 #left-area .app_sidebar, .postid-3387 #left-area .app_sidebar, .postid-3389 #left-area .app_sidebar, .postid-3392 #left-area .app_sidebar, .postid-3394 #left-area .app_sidebar, .postid-3396 #left-area .app_sidebar, .postid-3398 #left-area .app_sidebar, .postid-3400 #left-area .app_sidebar, .postid-3402 #left-area .app_sidebar, .postid-3404 #left-area .app_sidebar, .postid-3407 #left-area .app_sidebar, .postid-3409 #left-area .app_sidebar, .postid-3411 #left-area .app_sidebar, .postid-3369 #left-area .app_sidebar {display: none;}
 
+.page-id-4884 .page_title {display: none;}
+
 /*------------------------------------------------*/
 /*--------------[FEATURED SLIDER]-----------------*/
 /*------------------------------------------------*/
@@ -314,7 +316,7 @@ filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#4C000000,endCol
 .footer_wrap { background: transparent url("images/whitebar.png") 0px -18px no-repeat;padding-top:47px;}
 	
 #main_footer { background: transparent url("images/bluebar.png") left bottom no-repeat;padding: 26px 0 38px 0;}
-#main_footer {margin-bottom: 65px;}
+#main_footer {margin-bottom: 85px;}
 	/*---------------------[back to top button]-------------------*/
 	.home #backtotop {visibility: hidden;}
 	#backtotop {
@@ -430,7 +432,33 @@ filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#4C000000,endCol
 	/*---------------------[twitter ticker slider]-------------------*/
 	#twitter-ticker.image_carousel {position: static;}
 	#twitter-ticker.image_carousel .tweet {float: left;}
-	
+
+	.html_carousel#gtrip div.slide {
+		position: relative;
+	}	
+	.html_carousel#gtrip div.slide img {
+		width: 100%;
+		height: 100%;
+	}
+	.html_carousel#gtrip div.slide div {
+		background-color: rgba(0, 0, 0, 0.6);
+		width: 100%;
+		display: none;
+		position: absolute;
+		bottom: 0;
+	}
+	.html_carousel#gtrip div.slide h4 {
+		font-size: 35px;
+		padding: 30px 0 0 100px;
+	}
+	.html_carousel#gtrip div.slide p {
+		font-size: 16px;
+		padding: 0 0 30px 100px;
+	}
+	.html_carousel#gtrip div.slide h4, .html_carousel#gtrip div.slide p {
+		color: white;
+		margin: 0;
+	}
 	
 /*------------------------------------------------*/
 /*--------------------[SIDEBAR]-------------------*/

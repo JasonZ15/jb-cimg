@@ -12,7 +12,17 @@
 <script type="text/javascript" language="javascript" src="<?php echo get_template_directory_uri(); ?>/js/jquery.carouFredSel-5.6.1-packed.js"></script>
 <script type="text/javascript" language="javascript">
 			$(function() {
-
+				$("#foo5").carouFredSel({
+						responsive	: true,
+						scroll		: {
+							fx			: "crossfade"
+						},
+						items		: {
+							visible		: 1,
+							width		: 386,
+							height		: 225
+						}
+					});
 				//	Fuild layout example 2, centering the items
 				$("#foo3").carouFredSel({
 					auto		:  {
@@ -113,7 +123,7 @@
 	</ul>
 	<div class="clearfix"></div>
 	<div class="pagination" id="foo3_pag"></div>
-</div>-->
+</div>
 <div id="backtotop">
    <a href="#">&uarr; TOP</a>
 </div>
