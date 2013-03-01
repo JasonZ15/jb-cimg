@@ -100,7 +100,8 @@
 	  style="border: 1px solid #eba706; padding: 0;" /></a></li>
 	  <li style="width: 139px;"><a href="http://www.yicha.cn/" target="_blank"><img src="/wp-content/uploads/sponsors/yicha.png" height="57" 
 	  style="border: 1px solid #eba706; padding: 0;" /></a></li>
-	  
+	  <li style="width: 139px;"><a href="http://www.admaster.com.cn/" target="_blank"><img src="/wp-content/uploads/sponsors/admaster.jpg" height="57" 
+	  style="border: 1px solid #eba706; padding: 0;" /></a></li>
 	
 	  <!--<img src="http://www.gmic-sv.com/wp-content/themes/gmic-sv/images/platinum-sponsor-tab.jpg" width="97" height="59" style="padding:0; border: none;" />
 	  <a href="http://www.gmic-sv.com/tapjoy/"><img src="http://www.gmic-sv.com/wp-content/uploads/2012/08/tapjoy_logo_small.png" height="57" style="border: 1px solid #547bed; padding: 0;" /></a> 
