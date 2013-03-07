@@ -128,5 +128,9 @@
 <div id="backtotop">
    <a href="#">&uarr; TOP</a>
 </div>
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3Fbe49ba8724c59fa2d0221fd77e41f419' type='text/javascript'%3E%3C/script%3E"));
+</script>
 </body>
 </html>
