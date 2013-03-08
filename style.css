@@ -459,6 +459,8 @@ filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#4C000000,endCol
 		color: white;
 		margin: 0;
 	}
+	/*---------------------[live chat box]-------------------*/
+	#VolusionLiveChat {position: absolute; right: 0; top:17px;}
 	
 /*------------------------------------------------*/
 /*--------------------[SIDEBAR]-------------------*/
