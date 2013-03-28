@@ -37,6 +37,7 @@ echo $image[0]; ?>" />
 		<script src="<?php echo get_template_directory_uri(); ?>/js/html5.js" type="text/javascript"></script>
 	<![endif]-->
     <link rel="Shortcut Icon" type="image/ico" href="<?php echo get_template_directory_uri(); ?>/images/favicon.ico" />
+
 	<?php wp_head(); ?>
 </head>
 <body <?php body_class(); ?>>
