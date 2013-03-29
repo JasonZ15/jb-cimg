@@ -90,15 +90,18 @@
 	  <li style="width: 161px;"><a href="http://english.sina.com/index.html" target="_blank"><img src="/wp-content/uploads/sponsors/sina.png" height="57" style="border: 1px solid #7b6596; padding: 0px;" /></a></li>
 	  <li style="width: 161px;"><a href="http://www.tencent.com/en-us/index.shtml" target="_blank"><img src="/wp-content/uploads/sponsors/tencent.png" height="57" style="border: 1px solid #7b6596; padding: 0px;" /></a></li>
 	  
-	  <li style="width: 161px;"><a href="http://us.91.com/" target="_blank"><img src="/wp-content/uploads/sponsors/91.png" height="57" style="border: 1px solid #7b6596; padding: 0px;" /></a></li>
+	  <li style="width: 161px;"><a href="http://us.91.com/" target="_blank"><img src="/wp-content/uploads/sponsors/91.png" height="135" style="border: 1px solid #7b6596; padding: 0px;" /></a></li>
 	  
 	   <li style="width: 161px;"><a href="http://www.ucweb.com/index.html" target="_blank"><img src="/wp-content/uploads/sponsors/ucweb.png" height="57" style="border: 1px solid #7b6596; padding: 0px;" /></a></li>
 	   <li style="width: 161px;"><a href="http://www.xiaomi.com" target="_blank"><img src="/wp-content/uploads/sponsors/xiaomi.png" height="57" style="border: 1px solid #7b6596; padding: 0px;" /></a></li>
+	    <li style="width: 161px;"><a href="http://www.inmobi.com/" target="_blank"><img src="/wp-content/uploads/sponsors/inmobi.png" height="57" style="border: 1px solid #7b6596; padding: 0px;" /></a></li>
 	   
 	   <li style="width: 111px;"><img src="<?php echo get_template_directory_uri(); ?>/images/platinum-sponsor-tab.jpg" width="97" height="59" style="padding:0; border: none;" /></li>
 	   <li style="width: 139px;"><a href="http://www.domob.cn/?lan=en" target="_blank"><img src="/wp-content/uploads/sponsors/domob2.png" height="57" 
 	  style="border: 1px solid #547bed; padding: 0;" /></a></li>
 	   <li style="width: 139px;"><a href="http://www.maxthon.com/" target="_blank"><img src="/wp-content/uploads/sponsors/aoyou.png" height="57" 
+	  style="border: 1px solid #547bed; padding: 0;" /></a></li>
+	  <li style="width: 139px;"><a href="http://www.boyaa.com/" target="_blank"><img src="/wp-content/uploads/sponsors/boyaa.png" height="57" 
 	  style="border: 1px solid #547bed; padding: 0;" /></a></li>
 	  
 	  <li style="width: 111px;"><img src="<?php echo get_template_directory_uri(); ?>/images/gold-sponsor-tab.jpg" width="97" height="59" style="padding:0; border: none;" /></li>
