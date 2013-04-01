@@ -95,6 +95,9 @@
 	   <li style="width: 161px;"><a href="http://www.ucweb.com/index.html" target="_blank"><img src="/wp-content/uploads/sponsors/ucweb.png" height="57" style="border: 1px solid #7b6596; padding: 0px;" /></a></li>
 	   <li style="width: 161px;"><a href="http://www.xiaomi.com" target="_blank"><img src="/wp-content/uploads/sponsors/xiaomi.png" height="57" style="border: 1px solid #7b6596; padding: 0px;" /></a></li>
 	    <li style="width: 161px;"><a href="http://www.inmobi.com/" target="_blank"><img src="/wp-content/uploads/sponsors/inmobi.png" height="57" style="border: 1px solid #7b6596; padding: 0px;" /></a></li>
+		
+		<li style="width: 111px;"><img src="<?php echo get_template_directory_uri(); ?>/images/ggs-partner.jpg" width="97" height="59" style="padding:0; border: none;" /></li>
+		<li style="width: 161px;"><a href="http://store.wo.com.cn/" target="_blank"><img src="/wp-content/uploads/sponsors/wostore.png" height="57" style="border: 1px solid #e70012; padding: 0px;" /></a></li>
 	   
 	   <li style="width: 111px;"><img src="<?php echo get_template_directory_uri(); ?>/images/platinum-sponsor-tab.jpg" width="97" height="59" style="padding:0; border: none;" /></li>
 	   <li style="width: 139px;"><a href="http://www.domob.cn/?lan=en" target="_blank"><img src="/wp-content/uploads/sponsors/domob2.png" height="57" 
