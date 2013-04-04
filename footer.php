@@ -94,7 +94,8 @@
 	  
 	   <li style="width: 161px;"><a href="http://www.ucweb.com/index.html" target="_blank"><img src="/wp-content/uploads/sponsors/ucweb.png" height="57" style="border: 1px solid #7b6596; padding: 0px;" /></a></li>
 	   <li style="width: 161px;"><a href="http://www.xiaomi.com" target="_blank"><img src="/wp-content/uploads/sponsors/xiaomi.png" height="57" style="border: 1px solid #7b6596; padding: 0px;" /></a></li>
-	    <li style="width: 161px;"><a href="http://www.inmobi.com/" target="_blank"><img src="/wp-content/uploads/sponsors/inmobi.png" height="57" style="border: 1px solid #7b6596; padding: 0px;" /></a></li>
+	   <li style="width: 161px;"><a href="http://www.inmobi.com/" target="_blank"><img src="/wp-content/uploads/sponsors/inmobi.png" height="57" style="border: 1px solid #7b6596; padding: 0px;" /></a></li>
+	   <li style="width: 161px;"><a href="http://www.chukong-inc.com/en/" target="_blank"><img src="/wp-content/uploads/sponsors/chukong.png" height="57" style="border: 1px solid #7b6596; padding: 0px;" /></a></li>
 		
 		<li style="width: 111px;"><img src="<?php echo get_template_directory_uri(); ?>/images/ggs-partner.jpg" width="97" height="59" style="padding:0; border: none;" /></li>
 		<li style="width: 161px;"><a href="http://store.wo.com.cn/" target="_blank"><img src="/wp-content/uploads/sponsors/wostore.png" height="57" style="border: 1px solid #e70012; padding: 0px;" /></a></li>
@@ -104,9 +105,11 @@
 	  style="border: 1px solid #547bed; padding: 0;" /></a></li>
 	   <li style="width: 139px;"><a href="http://www.maxthon.com/" target="_blank"><img src="/wp-content/uploads/sponsors/aoyou.png" height="57" 
 	  style="border: 1px solid #547bed; padding: 0;" /></a></li>
-	  <li style="width: 139px;"><a href="http://www.boyaa.com/" target="_blank"><img src="/wp-content/uploads/sponsors/boyaa.png" height="57" 
-	  style="border: 1px solid #547bed; padding: 0;" /></a></li>
 	  <li style="width: 139px;"><a href="http://www.hdtmedia.com/" target="_blank"><img src="/wp-content/uploads/sponsors/hdt.png" height="57" 
+	  style="border: 1px solid #547bed; padding: 0;" /></a></li>
+	  <li style="width: 139px;"><a href="http://www.WQMobile.com/" target="_blank"><img src="/wp-content/uploads/sponsors/wqmobile.png" height="57" 
+	  style="border: 1px solid #547bed; padding: 0;" /></a></li>
+	  <li style="width: 139px;"><a href="http://www.boyaa.com/" target="_blank"><img src="/wp-content/uploads/sponsors/boyaa.png" height="57" 
 	  style="border: 1px solid #547bed; padding: 0;" /></a></li>
 	  
 	  <li style="width: 111px;"><img src="<?php echo get_template_directory_uri(); ?>/images/gold-sponsor-tab.jpg" width="97" height="59" style="padding:0; border: none;" /></li>
@@ -114,9 +117,13 @@
 	  style="border: 1px solid #eba706; padding: 0;" /></a></li>
 	  <li style="width: 139px;"><a href="http://www.admaster.com.cn/" target="_blank"><img src="/wp-content/uploads/sponsors/admaster.jpg" height="57" 
 	  style="border: 1px solid #eba706; padding: 0;" /></a></li>
+	  <li style="width: 139px;"><a href="http://www.rockmobile.com/en/" target="_blank"><img src="/wp-content/uploads/sponsors/rock-mobile.png" height="57" 
+	  style="border: 1px solid #eba706; padding: 0;" /></a></li>
 	  <li style="width: 139px;"><a href="http://www.pacific-crest.com/" target="_blank"><img src="/wp-content/uploads/2013/03/logo-3.png" height="57" 
 	  style="border: 1px solid #eba706; padding: 0;" /></a></li>
 	  <li style="width: 139px;"><a href="http://www.100tv.com/" target="_blank"><img src="/wp-content/uploads/sponsors/100tv.png" height="57" 
+	  style="border: 1px solid #eba706; padding: 0;" /></a></li>
+       <li style="width: 139px;"><a href="http://www.appannie.com/" target="_blank"><img src="/wp-content/uploads/sponsors/appannie-foot.png" height="57" 
 	  style="border: 1px solid #eba706; padding: 0;" /></a></li>
 	  <!--<img src="http://www.gmic-sv.com/wp-content/themes/gmic-sv/images/platinum-sponsor-tab.jpg" width="97" height="59" style="padding:0; border: none;" />
 	  <a href="http://www.gmic-sv.com/tapjoy/"><img src="http://www.gmic-sv.com/wp-content/uploads/2012/08/tapjoy_logo_small.png" height="57" style="border: 1px solid #547bed; padding: 0;" /></a> 
