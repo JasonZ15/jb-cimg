@@ -15,7 +15,7 @@
 	<meta property="og:url" content="<?php the_permalink(); ?>" />
 	<meta property="og:image" content="<?php $image = wp_get_attachment_image_src ( get_post_thumbnail_id ( $post_id ), 'single-post-thumbnail' );
 echo $image[0]; ?>" />
-	<meta property="og:site_name" content="Global Mobile Internet Conference" />
+	<meta property="og:site_name" content="Global Mobile Internet Conference | GMIC 2013" />
 	<meta property="og:description" content="<?php echo get_the_excerpt(); ?>" />
 	<meta property="fb:admins" content="670979947" />
 	<meta property="fb:app_id" content="377806332292440" />
@@ -65,7 +65,7 @@ echo $image[0]; ?>" />
 			<a href="/register/" id="go-register" class="action-button" style="clear:left;"><span class="color" style="padding-left: 16px;"><span class="text" style="font-size: 30px; padding: 12px 23px 14px 17px;">Register</span></span></a>
 			<a style="margin-left:5px;" href="/sponsorship/" id="sponsor" class="action-button"><span class="color" style="padding-left: 16px;"><span class="text" style="font-size: 30px; padding: 12px 23px 14px 17px;"><?php esc_html_e( 'Sponsor', 'Flexible' ); ?></span></span></a>
 			<a href="/recommend-speaker/" id="re-speaker" class="action-button" style="margin-left:5px;"><span class="color" style="padding-left: 16px;"><span class="text" style="font-size: 22px; padding: 12px 23px 14px 17px;">Recommend a Speaker</span></span></a>
-			<p class="social-buttons clearfix"><a id="fb" href="http://www.facebook.com/theGMIC" target="_blank" ><img src="<?php echo get_template_directory_uri(); ?>/images/social-buttons.png" /></a><a id="tt" href="http://www.twitter.com/theGMIC" target="_blank"><img src="<?php echo get_template_directory_uri(); ?>/images/social-buttons-02.png" /></a><a id="in" href="http://www.linkedin.com/groups/Mobile-Internet-Great-Wall-Club-2516273" target="_blank"><img src="<?php echo get_template_directory_uri(); ?>/images/social-buttons-03.png" /></a><a id="em" href="mailto: gmic@gwc.net" target="_blank"><img src="<?php echo get_template_directory_uri(); ?>/images/social-buttons-05.png" /></a></p>
+			<p class="social-buttons clearfix"><a id="fb" href="http://www.facebook.com/theGMIC" target="_blank" ><img src="<?php echo get_template_directory_uri(); ?>/images/social-buttons.png" /></a><a id="tt" href="http://www.twitter.com/theGMIC" target="_blank"><img src="<?php echo get_template_directory_uri(); ?>/images/social-buttons-02.png" /></a><a id="in" href="http://www.linkedin.com/groups?home=&gid=2825839" target="_blank"><img src="<?php echo get_template_directory_uri(); ?>/images/social-buttons-03.png" /></a><a id="em" href="mailto: gmic@gwc.net" target="_blank"><img src="<?php echo get_template_directory_uri(); ?>/images/social-buttons-05.png" /></a></p>
 			<?php if ( is_active_sidebar( 'header-widget' ) ){ ?><?php dynamic_sidebar( 'header-widget' ); ?><?php } ?>
 			<?php if ( ( $phone_num = et_get_option('flexible_phone_num') ) && '' != $phone_num ) echo '<span id="phone">' . $phone_num . '</span>'; ?>		
 		</header> 
