@@ -50,7 +50,7 @@ if ( $et_ptemplate_portfolio_size == 3 ) $et_ptemplate_portfolio_class = ' et_po
 				
 				<div class="post-content">
 					<?php the_content(); ?>
-					<ul id="et_portfolio_sort_links" class="speakers_page"><li><a href="#keynote-speakers">Keynote Speakers</a></li><li><a href="#main-stage-speakers">Main Stage Speakers</a></li><li><a href="#side-stage-speakers">Side Stage Speakers</a></li></ul>
+					<ul id="et_portfolio_sort_links" class="speakers_page"><!-- <li><a href="#keynote-speakers">Keynote Speakers</a></li> --><li><a href="#main-stage-speakers">Main Stage Speakers</a></li><li><a href="#g20-speakers">G20 Speakers</a></li><li><a href="#side-stage-speakers">Side Stage Speakers</a></li></ul>
 					<div id="et_pt_portfolio_gallery" class="clearfix responsive<?php echo $et_ptemplate_portfolio_class; ?>">
 						<?php 
 						sort($gallery_cats);

@@ -69,7 +69,7 @@
 		</div> <!-- end #portfolio-grid -->
 	</section> <!-- end #portfolio -->
 <?php } ?>
-
+<!-- <div style="width:960px;margin:auto;padding:20px 0 20 0;"><iframe style="height: 200px; width: 960px;" src="http://webinar.vhall.com/appaction.php?module=visituser&amp;pid=880337030" frameborder="0" marginwidth="0" marginheight="0" scrolling="auto"></iframe></div> -->
 <?php if ( 'on' == et_get_option('flexible_display_fromblog_section','on') && ( 'false' == et_get_option('flexible_blog_style','false') ) ) { ?>
 	<section id="blog" class="clearfix">
 		<h1 class="section-title"><a href="/category/recent-news/" target="_blank"><?php esc_html_e( 'Recent News', 'Flexible' ); ?></a></h1>
